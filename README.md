@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Malikatlas
 - 👀 I’m interested in Mathematics and data science
-- 🌱 I’m currently learning about python language
-- 💞️ I’m looking to collaborate on any project about Mathematics or python
+- 🌱 I’m currently learning about Data Science.
+- 💞️ I’m looking to collaborate on any project about Mathematics & Data Science
 - 📫 How to reach me 03070300070
 
 <!---
