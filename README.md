@@ -1,9 +1,9 @@
 - 👋 Hi, I’m @Malikatlas
 - 🔹 Business Accounting & Operations Analyst
 - 🔹 Pursuing MS in Data Science at FAST Islamabad
-- 👀 Interests 📊 Data Analysis | 📈 Business Intelligence | 📑 Financial Reporting
+- 👀 Interests  Data Analysis |  Business Intelligence | Machine Learning
 - 🌱 💡 Power BI, Excel, and Data Management for Business Insights
-- 💞️ 🚀 Open to projects related to Mathematics, Business Intelligence, and Data Science
+- 💞️ 🚀 Open to projects related to Mathematics, Business Intelligence, and Data Science.
 - 📫 📩 Email: malikatlas49@gmail.com | LinkedIn: https://www.linkedin.com/in/malik-atlas-875035185
 
 <!---
